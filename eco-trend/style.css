@@ -1,0 +1,38 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+h2 {
+  color: #2e7d32;
+  font-weight: 700;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.card-title {
+  font-weight: 600;
+  color: #2e7d32;
+}
+
+.btn-success {
+  background-color: #2e7d32;
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #1b5e20;
+}
+
+footer {
+  background-color: #f1f1f1;
+}
+
+/* Responsividade extra */
+@media (max-width: 768px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+}
