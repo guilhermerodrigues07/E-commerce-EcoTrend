@@ -38,7 +38,7 @@ Promover um estilo de vida mais consciente através de uma interface moderna, re
 3. Navegue pelas páginas
 
 ## 🌐 Publicação
-O projeto deve ser publicado no **GitHub Pages** para entrega final.
+[O projeto deve ser publicado no **GitHub Pages** para entrega final.](http://127.0.0.1:5500/eco-trend/index.html)
 
 ## 👥 Integrantes
 - Guilherme Rodrigues de Andrade RM:565863
