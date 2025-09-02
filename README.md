@@ -38,7 +38,7 @@ Promover um estilo de vida mais consciente através de uma interface moderna, re
 3. Navegue pelas páginas
 
 ## 🌐 Publicação
-O projeto deve ser publicado no **GitHub Pages** para entrega final.
+(https://github.com/guilhermerodrigues07/E-commerce-EcoTrend)
 
 ## 👥 Integrantes
 - Guilherme Rodrigues de Andrade RM:565863
